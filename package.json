@@ -1,0 +1,23 @@
+{
+  "name": "unzippy",
+  "version": "0.0.1",
+  "description": "node.js unzip stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fleg/unzippy.git"
+  },
+  "keywords": [
+    "unzip",
+    "stream"
+  ],
+  "author": "Aleksey Timchenko <flegmatik.bel@gmail.com> (http://flegdev.ru/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fleg/unzippy/issues"
+  },
+  "homepage": "https://github.com/fleg/unzippy"
+}
